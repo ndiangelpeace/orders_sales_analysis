@@ -1,2 +1,2 @@
 # orders_sales_analysis
-Sales analysis project using Excel, SQL, Python, and Power BI.
+Sales analysis project using Excel, Python, and Power BI.
