@@ -19,6 +19,11 @@ Chocolate was the highest-performing product in this sales dataset, generating t
 - Microsoft Excel
 - Power BI Desktop
 
+- To install the required Python libraries:
+
+bash
+pip install pandas numpy matplotlib
+
 KPI'S
 
 ✓ Total Revenue
