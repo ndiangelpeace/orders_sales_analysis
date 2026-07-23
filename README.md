@@ -49,6 +49,6 @@ KPI'S
 - Chocolate generated the highest total revenue (120).
 - Los Angeles was the highest-performing city with total revenue of 120.
 - The average order value was 37.64, with a median of 25.
-- The correlation between units sold and total revenue was 0.96, showing a strong positive relationship.
+- The correlation between units sold and total revenue was 0.59, showing a positive relationship.
 - The IQR outlier check found no outliers in the dataset.
 - One Milkshake record contained missing values and was excluded from calculations that required revenue.
